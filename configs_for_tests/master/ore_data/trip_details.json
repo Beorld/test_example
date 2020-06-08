@@ -1,0 +1,28 @@
+{
+  "trips": [
+    {
+      "sdo": "Truck 1",
+      "operator": "AAA",
+      "camera": "camera 1",
+      "orepass": "orepass 1",
+      "ore_type": "ore",
+      "section": "Section 1",
+      "trips": 32,
+      "distance": 360,
+      "start_time": "",
+      "work_type": "Ore loadings"
+    },
+    {
+      "sdo": "Truck 1",
+      "operator": "BAA",
+      "camera": "camera 35",
+      "orepass": "902",
+      "ore_type": "sand",
+      "section": "Section",
+      "trips": 60,
+      "distance": 240,
+      "start_time": "",
+      "work_type": "Отгрузка ПДМ руда"
+    }
+  ]
+}
